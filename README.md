@@ -125,7 +125,7 @@ The app handles errors gracefully and provides meaningful messages for users in 
 
 |Code|Name of Project|Published Article|Deployed App|
 |:---|:-------------:|:---------------:|-----------:|
-|LP4 |Churn Prediction App |https://medium.com/@rndcrabbe/store-sales-analysis-using-time-series-forecasting-abb2ded07c8d|Medium|
+|LP4 |Churn Prediction App |https://medium.com/@rndcrabbe/churn-prediction-app-with-gradio-d76807382c17|Medium|
 
 
 ## Conclusion
